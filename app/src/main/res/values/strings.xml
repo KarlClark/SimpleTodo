@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="task">Task:</string>
+    <string name="note">Note:</string>
+    <string name="due_date">Due Date:</string>
+    <string name="status">Status:</string>
+    <string name="priority">Priority:</string>
+    <string name="new_task">NEW</string>
+    <string name="done">Done</string>
+    <string name="delete">DELETE</string>
+
+    <string-array name="status_choices">
+        <item>To Do</item>
+        <item>Completed</item>
+    </string-array>
+
+    <string-array name="priority_choices">
+        <item>LOW</item>
+        <item>MEDIUM</item>
+        <item>HIGH</item>
+    </string-array>
+</resources>
